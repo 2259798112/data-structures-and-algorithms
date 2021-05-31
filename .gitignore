@@ -1,0 +1,10 @@
+
+dsa/dsa.iml
+*.iml
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
